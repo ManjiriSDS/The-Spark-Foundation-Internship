@@ -1,5 +1,4 @@
-# The-Spark-Foundation
-# Data Science Internship
+# The-Spark-Foundation - Data Science Internship
 
 Data Science & Business Analytics Tasks
 
