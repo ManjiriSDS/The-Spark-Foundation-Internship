@@ -2,7 +2,9 @@
 
 Data Science & Business Analytics Tasks
 
-Task 1 - Prediction Using Supervised ML (Level - Beginner)
+#Task 1 - Prediction Using Supervised ML (Level - Beginner)
+Predict the percentage of an student based on the no. of study hours.
 
 
-Task 2
+
+Task 2 - 
