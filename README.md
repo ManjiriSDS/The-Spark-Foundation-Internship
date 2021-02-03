@@ -1,5 +1,6 @@
 # The-Sparks-Foundation - Data Science Internship 
-![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/1519895156650.png) https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/cover_updated.jpg
+![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/1519895156650.png) 
+![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/cover_updated.jpg)
 
 
 Data Science & Business Analytics Tasks
