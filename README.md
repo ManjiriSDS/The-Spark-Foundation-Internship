@@ -1,4 +1,4 @@
-# The-Sparks-Foundation - Data Science Internship
+# @The-Sparks-Foundation - Data Science And Business Analytics Internship
 
 ![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/1519895156650.png)
 
