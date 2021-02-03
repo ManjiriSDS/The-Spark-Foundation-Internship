@@ -1,5 +1,6 @@
 # The-Sparks-Foundation - Data Science Internship
 
+[alt text](http://url/to/img.png)
 
 Data Science & Business Analytics Tasks
 
