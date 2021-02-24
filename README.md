@@ -20,3 +20,9 @@ https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sp
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 
+#Task 6 - Prediction Using Decision Tree Algorithm
+
+Create decision tree classifier and visualize it graphically
+
+The purpose is if we feed any new data to this classifier, it would be able to
+predict the right class accordingly.
