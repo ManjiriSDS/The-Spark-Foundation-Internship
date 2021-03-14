@@ -20,7 +20,7 @@
   - Problem Statement : What will be predicted score if a student studies for 9.25 hrs/ day?
   - Here is the solution : 
   - Code : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb 
-  - Recorded Output in Video : https://www.youtube.com/watch?v=lkTiUUGPrU4&t=1s 
+  - Recorded Output in a Video : https://www.youtube.com/watch?v=lkTiUUGPrU4&t=1s 
 
 ------------------------------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@
   - Dataset: https://bit.ly/3kXTdox
   - Here is the solution :
   - Code : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%202%20The%20Sparks%20Foundation.ipynb
-  - Recorded Output in Video : https://www.youtube.com/watch?v=Tk7fWt_TNcs&t=2s
+  - Recorded Output in a Video : https://www.youtube.com/watch?v=Tk7fWt_TNcs&t=2s
  
  -------------------------------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@
   - Problem Statement : If we feed any new data to this classifier, it would be able to predict the right class accordingly.
   - Here is the solution : 
   - Code : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%206%20The%20Sparks%20Foundation.ipynb
-  - Recorded Output in Video : https://www.youtube.com/watch?v=ubZ2saIFQj0&t=5s
+  - Recorded Output in a Video : https://www.youtube.com/watch?v=ubZ2saIFQj0&t=5s
 
 ---------------------------------------------------------------------------------------------------------
 
