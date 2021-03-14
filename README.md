@@ -18,7 +18,9 @@
   - Tool  Used Python Jupyter Notebook
   - Dataset: http://bit.ly/w-data
   - Problem Statement : What will be predicted score if a student studies for 9.25 hrs/ day?
-  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757317864069369856/
+  - Here is the solution : 
+    https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb
+    https://www.youtube.com/watch?v=lkTiUUGPrU4&t=1s 
 
 ------------------------------------------------------------------------------------------------------
 
