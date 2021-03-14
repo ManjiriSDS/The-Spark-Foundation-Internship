@@ -17,13 +17,16 @@
 
 
 * Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
-* - From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually.
-  - This is the simple Linear Regression task as it involve just 2 variables.
+  - From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually.
+  - Tool Used Python Jupyter Notebook
+  - Dataset: https://bit.ly/3kXTdox
+  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6756945761516208129/
 
 
-#Task 6 - Prediction Using Decision Tree Algorithm
+* Task 6 - Prediction Using Decision Tree Algorithm (Level - Intermediate)
+  - Create the Decision Tree classifier and visualize it graphically.
+  - Tool Used Python Jupyter Notebook
+  - Dataset: https://bit.ly/3kXTdox
+  - Problem Statement : If we feed any new data to this classifier, it would be able to predict the right class accordingly.
+  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757308681441853440/
 
-Create decision tree classifier and visualize it graphically
-
-The purpose is if we feed any new data to this classifier, it would be able to
-predict the right class accordingly.
