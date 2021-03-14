@@ -9,6 +9,7 @@
 * Task 1 - Prediction Using Supervised ML (Level - Beginner)
   - Predict the percentage of an student based on the no. of study hours.
   - This is the simple Linear Regression task as it involve just 2 variables.
+  - Tool  Used Python Jupyter Notebook
   
 
 
