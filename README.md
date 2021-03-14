@@ -10,7 +10,8 @@
   - Predict the percentage of an student based on the no. of study hours.
   - This is the simple Linear Regression task as it involve just 2 variables.
   - Tool  Used Python Jupyter Notebook
-  - Dataset https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
+  - Dataset: 
+    https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
   - Problem Statement : What will be predicted score if a student studies for 9.25 hrs/ day?
   - Here is the Code solution :
   
