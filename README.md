@@ -51,6 +51,6 @@
   - Dataset: https://bit.ly/34SRn3b
   - Problem Statement : As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. 
                         Suggest teams or players a company should endorse for its products.
-  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757743373530017792/
+  - Here is the solution : 
   - Dashboard : https://public.tableau.com/profile/sonu75769#!/vizhome/IPLSportEDA/Dashboard1
   - Recorded Output in a Video : https://www.youtube.com/watch?v=Gu-IBUyP-CU&t=2s
