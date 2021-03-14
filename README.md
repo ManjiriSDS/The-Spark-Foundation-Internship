@@ -19,8 +19,8 @@
   - Dataset: http://bit.ly/w-data
   - Problem Statement : What will be predicted score if a student studies for 9.25 hrs/ day?
   - Here is the solution : 
-  - https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb 
-  - https://www.youtube.com/watch?v=lkTiUUGPrU4&t=1s 
+  - Code : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb 
+  - Recorded Output in Video : https://www.youtube.com/watch?v=lkTiUUGPrU4&t=1s 
 
 ------------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,9 @@
   - From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually.
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
-  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6756945761516208129/
+  - Here is the solution :
+  - Code : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%202%20The%20Sparks%20Foundation.ipynb
+  - Recorded Output in Video : https://www.youtube.com/watch?v=Tk7fWt_TNcs&t=2s
  
  -------------------------------------------------------------------------------------------------------
 
@@ -37,7 +39,9 @@
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
   - Problem Statement : If we feed any new data to this classifier, it would be able to predict the right class accordingly.
-  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757308681441853440/
+  - Here is the solution : 
+  - Code : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%206%20The%20Sparks%20Foundation.ipynb
+  - Recorded Output in Video : https://www.youtube.com/watch?v=ubZ2saIFQj0&t=5s
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -48,3 +52,4 @@
   - Problem Statement : As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. 
                         Suggest teams or players a company should endorse for its products.
   - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757743373530017792/
+  - Dashboard : 
