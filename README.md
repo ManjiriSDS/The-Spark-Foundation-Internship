@@ -1,5 +1,5 @@
 # The-Sparks-Foundation - Data Science Internship 
---------------------------------------------------
+
 
 
 ![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/1519895156650.png) 
@@ -7,6 +7,7 @@
 
 
 ### Data Science & Business Analytics Tasks
+-------------------------------------------
 
 
 * Task 1 - Prediction Using Supervised ML (Level - Beginner)
