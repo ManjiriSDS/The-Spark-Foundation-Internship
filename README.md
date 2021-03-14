@@ -17,7 +17,7 @@
 
 
 * Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
-*  - Predict the percentage of an student based on the no. of study hours.
+* - From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually.
   - This is the simple Linear Regression task as it involve just 2 variables.
 
 
