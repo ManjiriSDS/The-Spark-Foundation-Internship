@@ -1,6 +1,6 @@
 # The-Sparks-Foundation - Data Science Internship 
 
-### Author - Manjiri Sawant
+#### Author - Manjiri Sawant
 
 
 
@@ -8,7 +8,7 @@
 ![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/cover_updated.jpg)
 
 
-### Data Science & Business Analytics Tasks
+## Data Science & Business Analytics Tasks
 -------------------------------------------
 
 
