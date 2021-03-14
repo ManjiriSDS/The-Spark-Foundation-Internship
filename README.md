@@ -23,7 +23,7 @@
   - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6756945761516208129/
 
 
-* Task 6 - Prediction Using Decision Tree Algorithm (Level - Intermediate)
+* Task 3 - Prediction Using Decision Tree Algorithm (Level - Intermediate)
   - Create the Decision Tree classifier and visualize it graphically.
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
