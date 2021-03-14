@@ -13,21 +13,12 @@
   - Dataset: 
     https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
   - Problem Statement : What will be predicted score if a student studies for 9.25 hrs/ day?
-  - Here is the Code solution :
+  - Here is the solution : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb
   
 
 
-        
-
-         
-      
-         
-   
-
-
-#Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
-
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+* Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
+*        - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 
 #Task 6 - Prediction Using Decision Tree Algorithm
