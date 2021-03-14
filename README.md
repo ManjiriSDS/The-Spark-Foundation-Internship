@@ -15,8 +15,10 @@
   - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757317864069369856/
 
 
+
 * Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
-*        - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+*  - Predict the percentage of an student based on the no. of study hours.
+  - This is the simple Linear Regression task as it involve just 2 variables.
 
 
 #Task 6 - Prediction Using Decision Tree Algorithm
