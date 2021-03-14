@@ -11,6 +11,7 @@
   - This is the simple Linear Regression task as it involve just 2 variables.
   - Tool  Used Python Jupyter Notebook
   - https://www.linkedin.com/feed/update/urn:li:activity:6757317864069369856/
+  - https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb
   
 
 
