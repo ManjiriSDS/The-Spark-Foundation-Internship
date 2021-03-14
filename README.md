@@ -3,7 +3,7 @@
 ![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/cover_updated.jpg)
 
 
-Data Science & Business Analytics Tasks
+### Data Science & Business Analytics Tasks
 
 
 * Task 1 - Prediction Using Supervised ML (Level - Beginner)
