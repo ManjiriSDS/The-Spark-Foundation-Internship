@@ -22,7 +22,7 @@
 
 ------------------------------------------------------------------------------------------------------
 
-* Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
+* #### Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
   - From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually.
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
@@ -30,7 +30,7 @@
  
  -------------------------------------------------------------------------------------------------------
 
-* Task 3 - Prediction Using Decision Tree Algorithm (Level - Intermediate)
+* #### Task 3 - Prediction Using Decision Tree Algorithm (Level - Intermediate)
   - Create the Decision Tree classifier and visualize it graphically.
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
@@ -39,7 +39,7 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-* Task 4 - Exploratory Data Analysis - Sports (Level - Advanced)
+* #### Task 4 - Exploratory Data Analysis - Sports (Level - Advanced)
   - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
   - Tool Used Tableau Software
   - Dataset: https://bit.ly/34SRn3b
