@@ -30,3 +30,10 @@
   - Problem Statement : If we feed any new data to this classifier, it would be able to predict the right class accordingly.
   - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757308681441853440/
 
+* Task 4 - Exploratory Data Analysis - Sports (Level - Advanced)
+  - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
+  - Tool Used Tableau Software
+  - Dataset: https://bit.ly/34SRn3b
+  - Problem Statement : As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. 
+                        Suggest teams or players a company should endorse for its products.
+  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757743373530017792/
