@@ -11,10 +11,8 @@
   - This is the simple Linear Regression task as it involve just 2 variables.
   - Tool  Used Python Jupyter Notebook
   - Dataset: http://bit.ly/w-data
-    
   - Problem Statement : What will be predicted score if a student studies for 9.25 hrs/ day?
-  - Here is the solution : https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb
-  
+  - Here is the solution : https://www.linkedin.com/feed/update/urn:li:activity:6757317864069369856/
 
 
 * Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
