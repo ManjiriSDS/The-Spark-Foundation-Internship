@@ -7,8 +7,8 @@
 
 
 * Task 1 - Prediction Using Supervised ML (Level - Beginner)
-*        - Predict the percentage of student based on the No. of Study Hours.
-*        - This is the simple Linear Regression task as it involve just 2 variables.
+        - Predict the percentage of student based on the No. of Study Hours.
+        - This is the simple Linear Regression task as it involve just 2 variables.
 
          
       
