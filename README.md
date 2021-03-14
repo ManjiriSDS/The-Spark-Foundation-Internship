@@ -1,5 +1,7 @@
 # The-Sparks-Foundation - Data Science Internship 
 
+# Author - Manjiri Sawant
+
 
 
 ![alt text](https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/1519895156650.png) 
