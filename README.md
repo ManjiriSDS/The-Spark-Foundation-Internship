@@ -12,7 +12,7 @@
 
 
 
-* #### Task 1 - Prediction Using Supervised ML (Level - Beginner)
+* #### Prediction Using Supervised ML (Level - Beginner)
   - Predict the percentage of a student based on the no. of study hours.
   - This is the simple Linear Regression task as it involve just 2 variables.
   - Tool  Used Python Jupyter Notebook
@@ -24,7 +24,7 @@
 
 ------------------------------------------------------------------------------------------------------
 
-* #### Task 2 - Prediction Using Unsupervised ML (Level - Beginner)
+* #### Prediction Using Unsupervised ML (Level - Beginner)
   - From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually.
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
@@ -34,7 +34,7 @@
  
  -------------------------------------------------------------------------------------------------------
 
-* #### Task 3 - Prediction Using Decision Tree Algorithm (Level - Intermediate)
+* #### Prediction Using Decision Tree Algorithm (Level - Intermediate)
   - Create the Decision Tree classifier and visualize it graphically.
   - Tool Used Python Jupyter Notebook
   - Dataset: https://bit.ly/3kXTdox
@@ -45,7 +45,7 @@
 
 ---------------------------------------------------------------------------------------------------------
 
-* #### Task 4 - Exploratory Data Analysis - Sports (Level - Advanced)
+* #### Exploratory Data Analysis - Sports (Level - Advanced)
   - Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’.
   - Tool Used Tableau Software
   - Dataset: https://bit.ly/34SRn3b
