@@ -59,7 +59,7 @@
 | Sr No. | Project | Description | Dataset | Problem Statement | Solution | Video Output Link | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | | **Beginner** |
-| 1 | Prediction Using Supervised ML | <ol 
+| 1 | Prediction Using Supervised ML | <ul><li> Predict the percentage of a student based on the no. of study hours. </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> |
 
 
 
