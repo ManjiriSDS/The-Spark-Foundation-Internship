@@ -66,5 +66,5 @@
 | | **ADVANCED** | 
 | 4 | Exploratory Data Analysis - Sports | <ul><li> Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’. </li> | ul.a {
   list-style-type: square;
-} <li> As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. </li> <li> Suggest teams or players a company should endorse for its products. <li> |
+} As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. Suggest teams or players a company should endorse for its products.|
 
