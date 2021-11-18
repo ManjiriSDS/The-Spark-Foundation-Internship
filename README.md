@@ -54,3 +54,12 @@
   - Here is the solution : 
   - Dashboard : https://public.tableau.com/profile/sonu75769#!/vizhome/IPLSportEDA/Dashboard1
   - Recorded Output in a Video : https://www.youtube.com/watch?v=Gu-IBUyP-CU&t=2s
+
+
+| Sr No. | Project | Description | Dataset | Problem Statement | Solution | Video Output Link | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ** Beginner Level** |
+| 1 | Prediction Using Supervised ML | <ol 
+
+
+
