@@ -57,8 +57,8 @@
 
 
 | Sr No. | Project | Description | Problem Statement | Solution | Status |
-| --- | --- | --- | --- | --- | --- | 
+| --- | :---: | --- | --- | --- | --- | 
 | | **BEGINNER** |
 | 1 | Prediction Using Supervised ML | <ul style="list-style-type: square "><li> Predict the percentage of a student based on the no. of study hours. </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> | What will be predicted score if a student studies for 9.25 hrs/ day? |
-
+| 2 | Prediction Using Unsupervised ML | <ul style="list-style-type: square "><li> Iris Dataset </li> | From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually. |
 
