@@ -56,9 +56,13 @@
   - Recorded Output in a Video : https://www.youtube.com/watch?v=Gu-IBUyP-CU&t=2s
 
 
-| Sr No. | Project | Description | Problem Statement | Solution | Status |
-| --- | :---: | --- | --- | --- | --- | 
+| Sr No. | Project | Description | Problem Statement | Status |
+| --- | :---: | --- | --- | --- |
 | | **BEGINNER** |
-| 1 | Prediction Using Supervised ML | <ul><li> Predict the percentage of a student based on the no. of study hours. </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> | What will be predicted score if a student studies for 9.25 hrs/ day? | <ul><li> **Code** -  </li> <li> **Video Output** -  </li>
-| 2 | Prediction Using Unsupervised ML | <ul><li> Iris Dataset </li> | From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually. | <ul><li> **Code** -  </li> <li> **Video Output** - https://www.youtube.com/watch?v=Tk7fWt_TNcs&t=2s </li> | 
+| 1 | Prediction Using Supervised ML | <ul><li> Predict the percentage of a student based on the no. of study hours. </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> | What will be predicted score if a student studies for 9.25 hrs/ day? |
+| 2 | Prediction Using Unsupervised ML | <ul><li> Iris Dataset </li> | From the given 'Iris' dataset, predict the optimal number of clusters and represent it visually. | 
+| | **INTERMEDIATE** |
+| 3 | Prediction Using Decision Tree Algorithm | <ul><li> Create the Decision Tree classifier and visualize it graphically. </li> | If we feed any new data to this classifier, it would be able to predict the right class accordingly. | 
+| | **ADVANCED** | 
+| 4 | Exploratory Data Analysis - Sports | <ul><li> Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’. </li> | <ul> <li> As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. </li> <li> Suggest teams or players a company should endorse for its products. <li> |
 
