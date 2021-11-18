@@ -58,7 +58,7 @@
 
 | Sr No. | Project | Description | Dataset | Problem Statement | Solution | Video Output Link | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ** Beginner Level** |
+| **Beginner** |
 | 1 | Prediction Using Supervised ML | <ol 
 
 
