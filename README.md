@@ -59,7 +59,7 @@
 | Sr No. | Project | Description | Dataset | Problem Statement | Solution | Video Output Link | Status |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | | **Beginner** |
-| 1 | Prediction Using Supervised ML | <ul style="list-style-type: square "><li> Predict the percentage of a student based on the no. of study hours. </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> | http://bit.ly/w-data | What will be predicted score if a student studies for 9.25 hrs/ day? | https://github.com/ManjiriSDS/The-Spark-Foundation/blob/main/Task%201%20The%20Sparks%20Foundation.ipynb | 
+| 1 | Prediction Using Supervised ML | <ul style="list-style-type: square "><li> Predict the percentage of a student based on the no. of study hours. </li> <li> This is the simple Linear Regression task as it involve just 2 variables. </li> | http://bit.ly/w-data | What will be predicted score if a student studies for 9.25 hrs/ day? | https://github.com/ManjiriSDS/The-Spark-Foundation/tree/main/Project%201 | 
 
 
 
